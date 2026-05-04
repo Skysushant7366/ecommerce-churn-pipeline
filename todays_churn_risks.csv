@@ -1,3 +1,0 @@
-user_id,total_items_purchased,lifetime_value,account_age_days,has_returned_item,churn_probability,risk_level
-16873,7,288.34,2558,1,0.7389027,High Risk
-30938,5,189.67,2629,0,0.7389027,High Risk

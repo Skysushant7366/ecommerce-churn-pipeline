@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/root/ecommerce-churn-pipeline/batch_predict.py", line 1, in <module>
-    from google.cloud import bigquery
-ModuleNotFoundError: No module named 'google'
