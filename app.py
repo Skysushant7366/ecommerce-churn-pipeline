@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load the Champion Engine
-model_path = '/content/drive/MyDrive/Ecommerce Pipeline April2026/xgboost_churn_champion.joblib'
+model_path = 'xgboost_churn_champion.joblib'
 model = joblib.load(model_path)
 
 # ==========================================
