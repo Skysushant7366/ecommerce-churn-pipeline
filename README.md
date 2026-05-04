@@ -2,7 +2,13 @@
 **Architected by: Sushant Kumar Yadav**
 
 ## 📊 Executive Dashboard (Looker Studio)
-*(Replace this text with your Looker screenshot later!)*
+*Uploaded comprehensive visualizations from the Looker Studio Growth & Retention Command Center. 
+
+Visual artifacts included:
+- E-commerce Command Center (High-level $10.76M revenue & KPI overview)
+- Geographic Penetration & Churn Risk Audit
+- Customer Journey & Cross-sell Affinity Audit
+- Traffic Sources & Behavioral Segments*
 
 ## 🏗️ 1. Project Overview & Architecture
 This project is an end-to-end implementation of the **Modern Data Stack**. It demonstrates a complete data lifecycle—from raw warehouse ingestion to advanced statistical modeling, executive BI, and automated production deployment.
